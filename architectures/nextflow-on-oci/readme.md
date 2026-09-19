@@ -9,7 +9,7 @@ This repo helps install nextflow on Oracle Cloud Infrastrucure (OCI) and help yo
 ## Description
 This repository provides a comprehensive toolkit for deploying, configuring, and managing Nextflow workflows on Oracle Cloud Infrastructure (OCI).
 
-Nextflow is a powerful and popular system/orchestrator for creating scalable and reproducible scientific workflows. OCI offers highly performant and cost-effective bare metal compute instances ideal for High-Performance Computing (HPC) workloads.
+Nextflow is a powerful and popular system/orchestrator for creating scalable and reproducible scientific workflows. OCI offers highly performant and cost-effective bare metal compute instances ideal for High-Performance Computing (HPC) Workloads.
 
 The goal is to provide a straightforward path for researchers and bioinformaticians to run their existing Nextflow pipelines on an enterprise-grade cloud HPC environment, specifically using an OCI HPC Cluster powered by GPUs managed by the SLURM scheduler.
 
